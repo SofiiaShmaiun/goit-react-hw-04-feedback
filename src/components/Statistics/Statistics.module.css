@@ -1,0 +1,11 @@
+.statisticsList {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-left: 0;
+}
+
+.statisticsItem {
+    color: rgb(205, 126, 139);
+}
